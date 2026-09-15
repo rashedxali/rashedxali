@@ -1,5 +1,5 @@
 
-<h1 align="center">Rashed</h1> <p align="center"> <b>Full-Stack Software Engineer, Dhaka</b><br/> Most founders can build an MVP. I work on what comes after. </p> <p align="center"> <a href="https://rashed.live"><img src="https://img.shields.io/badge/rashed.live-E85002?style=for-the-badge&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rashedxali"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=E85002" /></a> <a href="https://twitter.com/swerashed"><img src="https://img.shields.io/badge/X-171717?style=for-the-badge&logo=x&logoColor=E85002" /></a> <a href="mailto:talk.rashed@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=E85002" /></a> </p>
+<h1 align="center">Rashed</h1> <p align="center"> <b>Full-Stack Software Engineer, Dhaka</b><br/> Most founders can build an MVP. I work on what comes after. </p> <p align="center"> <a href="https://rashed.live"><img src="https://img.shields.io/badge/rashed.live-E85002?style=for-the-badge&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rashedxali"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=E85002" /></a> <a href="https://twitter.com/rashedxali"><img src="https://img.shields.io/badge/X-171717?style=for-the-badge&logo=x&logoColor=E85002" /></a> <a href="mailto:talk.rashed@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=E85002" /></a> </p>
 
 ----------
 
@@ -13,19 +13,19 @@ The work I like is the unglamorous half: figuring out why a page is slow, where 
 
 Reworked the frontend and rebuilt the caching layer. Hosting went from $70 a month to $25, and it now takes ~30M requests and ~150k users monthly without flinching.
 
-`Next.js` `Tailwind` `GSAP` `PWA` → [case study](https://www.notion.so/swerashed/Gentle-Park-Leading-E-Commerce-in-Bangladesh-2fbdcf97562480b2ba9bdd3b1ba8cc1f?source=copy_link)
+`Next.js` `Tailwind` `GSAP` `PWA` → [Case study](https://www.notion.so/swerashed/Gentle-Park-Leading-E-Commerce-in-Bangladesh-2fbdcf97562480b2ba9bdd3b1ba8cc1f?source=copy_link)
 
 ### [Beyond Headlines](https://thebeyondheadlines.com/) · News Platform
 
 Server-rendered pages driven by JSON, with load balancing and failover on self-hosted infra. Zero unplanned downtime since launch, which for a news site is the whole job.
 
-`Next.js` `SSR` `AWS` → [case study](https://app.notion.com/p/rashedxali/Beyond-Headlines-3d8dcf9756248039ab56d1926c6f5e76?source=copy_link)
+`Next.js` `SSR` `AWS` → [Case study](https://app.notion.com/p/rashedxali/Beyond-Headlines-3d8dcf9756248039ab56d1926c6f5e76?source=copy_link)
 
 ### [QR Monitor](https://qrmonitor.app/) · Dynamic QR SaaS
 
 Built it because I wanted QR codes whose destination I could change after printing. Redirect engine plus device and location analytics, bootstrapped to paying users.
 
-`Next.js` `Nest.js` `Prisma` `PostgreSQL` → [case study](https://app.notion.com/p/rashedxali/Qr-Monitor-2bfdcf97562480e4bc64ec7b2e726f8d?v=224dcf97562481d79a66000c44f7aeb7&source=copy_link)
+`Next.js` `Nest.js` `Prisma` `PostgreSQL` → [Case study](https://app.notion.com/p/rashedxali/Qr-Monitor-2bfdcf97562480e4bc64ec7b2e726f8d?v=224dcf97562481d79a66000c44f7aeb7&source=copy_link)
 
 ### At [Notionhive](https://notionhive.com/)
 
